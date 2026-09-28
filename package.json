@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/clipfont",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clip identifiers and font tokens for idempotent workflows.",
+  "bin": {
+    "clipfont": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/clipfont.git"
+  },
+  "homepage": "https://theworker02.github.io/clipfont/",
+  "keywords": [
+    "clip",
+    "font",
+    "id",
+    "cli",
+    "toolkit"
+  ]
+}
